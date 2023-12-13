@@ -1,4 +1,4 @@
-Azuredata engineering end to end bank data analysis project learned from Darshil Parmar (youtuber)
+Azure data engineering end-to-end bank data analysis project learned from Darshil Parmar (youtuber)
 
 I have gained knowledge by using the azure cloud tools
 
